@@ -1,31 +1,37 @@
-# WDS
+# WHL Strategic Analytics: The "Deception & Sustainability" Model
 
+## 1. Project Overview
+This research project provides a multi-dimensional analysis of **Western Hockey League (WHL)** performance, moving beyond traditional standings to identify **True Contenders**, **Paper Tigers**, and **Strategic Archetypes**. By processing raw play-by-play data, this model quantifies team identities through the lens of puck possession, goaltending efficiency, and roster sustainability.
 
-# Findings
-# Overtime
-- **Phillipines** : Good at defense , not so good offense , wins most of their games in overtime , they basically take their games to ot and then try to win.
-1. The "Pure" Juggernauts (Low Deception Gap)Brazil ($0.707 \rightarrow 0.621$) and Thailand ($0.609 \rightarrow 0.536$).The Insight: These teams are the most dangerous. They finish games in 60 minutes. Their standing isn't "padded" by the high-variance 3-on-3 or Shootout.Wharton Value: In a playoff simulation (where games are 5-on-5), these teams are your statistical favorites because their success is rooted in sustainable, regulation play.
+---
 
+## 2. The Analytical Pillars
 
-2. The "Paper Tigers" (High Deception Gap)Peru ($0.634 \rightarrow 0.463$) and UAE ($0.463 \rightarrow 0.268$).The Insight: These teams are "frauds" in the context of power rankings. UAE loses nearly 20% of their win value when you remove OT.The Argument: They likely have a specific skill (like a great shootout goalie or a fast 3-on-3 duo) that won't translate to long-term 5-on-5 dominance.Ranking Action: We must penalize these teams. They are currently "over-ranked" by standard standings.
+### I. The Deception Gap (Luck vs. Dominance)
+Traditional win percentages are often inflated by overtime (OT) results, which are statistically high-variance. We isolate **Regulation Win Percentage** and compare it to total wins to calculate the **"Deception Gap."**
+* **Pure Juggernauts:** Teams with high possession (Corsi) and low deception gaps (dominance in 60 minutes).
+* **Paper Tigers:** Teams reliant on OT/Shootout "coin-flips" to maintain their position in the standings.
 
+### II. The Gatekeeper Factor (GSAx)
+We utilize **Goals Saved Above Expected (GSAx)** to decouple defensive system quality from individual goaltending performance.
+* **The Sieve Alert:** Identifies teams with elite defensive structures (low xGA) being sabotaged by sub-par goaltending.
+* **Goalie Heroes:** Teams masking defensive flaws through elite "Gatekeeper" performance.
 
-3. The "Hidden Gems" (The Resilience Metric)Look at teams with a low win_pct but a high resilience_factor (which we calculated in the previous step).The Insight: These teams are "Hard Outs." Even though they are losing, they are forcing elite teams into OT.Wharton Value: This proves that "Total Points" is a lagging indicator. A team like Serbia or Germany might actually be "stronger" defensively than a team like Peru, even though they have fewer points.
+### III. Fatigue & Roster Sustainability
+Using **Time On Ice (TOI) Normalization**, we calculate a **Fatigue Ratio** for every offensive unit.
+* **Workload Status:** Dynamically flags **"FATIGUED"** units (Top 25% of league usage).
+* **Sustainability Risk:** Identifies "One-Line Wonders" overworking their top stars, signaling a high probability of performance collapse in compressed playoff schedules.
 
-reg_win: Dominance (won within 60 minutes).
+---
 
-ot_win: High Variance (won in 3v3 or Shootout).
+## 3. Key Findings (February 2026)
 
-ot_loss: Resilience (lost, but forced the opponent to extra time).
+### The "Hidden Contenders"
+Based on our **PowerScore** (Weighted 50% Defense System / 50% Goaltending), we identified teams undervalued by the current standings. These teams exhibit:
+1.  **Negative Deception Gap:** Underperforming their true talent due to OT bad luck.
+2.  **"Fresh" Workload Status:** High-performing second lines with low fatigue ratios.
+3.  **High 5-on-5 Purity:** Consistent elite performance from the top-six forward group.
 
-reg_loss: Failure (unable to stay competitive for 60 minutes).
+### Strategic Archetypes Identified:
 
-
-Deception Gap: The difference between a team's official win rate and their regulation win rate. A high gap means a team is "padded" by OT points.
-
-Corsi For %: A measure of puck possession based on shot volume. In hockey, if you have a high Corsi, you are driving the play.
-
-Usage Normalization (Per 60): It adjusts xG (Expected Goals) based on total_minutes. This ensures that teams playing many OTs don't have "inflated" stats just because they spent more time on the ice.
-
-Fagitue ratio is of no use 
-* the pattern clearly visible is first off of each team is fatigued
+| Archetype | Characteristics | Strategic Outlook |
