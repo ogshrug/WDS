@@ -1,0 +1,1004 @@
+========================================================================
+  WHL 2025 — KEY FINDINGS PER TEAM
+  Offensive Line Quality Disparity + Overall Team Analysis
+========================================================================
+
+  League averages used as benchmarks:
+    Line disparity ratio  :  1.115x
+    1st line adj.xG/60   :  2.377
+    2nd line adj.xG/60   :  2.152
+    Win percentage       :  0.090
+
+  Methodology note:
+    Line disparity ratio = first line adj.xG/60 ÷ second line adj.xG/60
+    Even-strength only. xG/60 adjusted for TOI and defensive matchup quality.
+    Ratio > 1 = first line better. Ratio < 1 = second line better (inverted).
+
+────────────────────────────────────────────────────────────────────────
+  # 1  USA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #1 of 32
+    Disparity ratio        : 1.3662x  — Heavily top-heavy (first line dominant)
+    xG gap (adj, per 60)   : +0.7315  (1st line generates 0.7315 more xG/60)
+    1st line adj.xG/60     : 2.7294  (raw: 2.7223,  TOI: 29.7h)
+    2nd line adj.xG/60     : 1.9978  (raw: 2.0022,  TOI: 28.9h)
+    vs league avg ratio    : +0.2509  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #27 of 32  |  Tier: Poor
+    Composite score        : -0.799  (league avg = 0.000)
+    Win percentage         : 0.090  (above league avg of 0.090)
+    Goal disparity/game    : -0.029  (net conceder on average)
+    xG disparity/game      : -0.021  (conceding more quality than generating)
+    Shot quality           : -0.0030  (conceding higher-danger chances)
+    Conversion             : -0.0090  (worse finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : Less disciplined than opponents (+0.061/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+53.0 goal split)
+
+  [ KEY INSIGHT ]
+    Usa's offence is heavily carried by the first line, which generates
+    1.37x the xG/60 of the second line after matchup adjustment. This
+    top-heaviness makes them vulnerable if the first line is shut down.
+    Despite a high line disparity (1.37x), Usa ranks poorly overall
+    (#27, Poor), suggesting the first line's edge isn't translating to
+    results — possibly due to defensive or goaltending issues.
+    Discipline is a concern: they take +0.061 more penalties/game than
+    opponents, consistently gifting power play opportunities.
+
+────────────────────────────────────────────────────────────────────────
+  # 2  GUATEMALA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #2 of 32
+    Disparity ratio        : 1.3648x  — Heavily top-heavy (first line dominant)
+    xG gap (adj, per 60)   : +0.7549  (1st line generates 0.7549 more xG/60)
+    1st line adj.xG/60     : 2.8242  (raw: 2.8201,  TOI: 30.2h)
+    2nd line adj.xG/60     : 2.0693  (raw: 2.0712,  TOI: 29.8h)
+    vs league avg ratio    : +0.2495  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #10 of 32  |  Tier: Above Average
+    Composite score        : +0.274  (league avg = 0.000)
+    Win percentage         : 0.087  (below league avg of 0.090)
+    Goal disparity/game    : -0.003  (net conceder on average)
+    xG disparity/game      : +0.014  (generating more than conceding)
+    Shot quality           : +0.0140  (creating higher-danger chances)
+    Conversion             : +0.0020  (better finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.015/game (negative finishing / luck)
+    Penalty discipline     : Roughly even discipline vs opponents
+    Home/away consistency  : Strongly home-dependent (+23.0 goal split)
+
+  [ KEY INSIGHT ]
+    Guatemala's offence is heavily carried by the first line, which
+    generates 1.36x the xG/60 of the second line after matchup
+    adjustment. This top-heaviness makes them vulnerable if the first
+    line is shut down.
+
+────────────────────────────────────────────────────────────────────────
+  # 3  SAUDI ARABIA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #3 of 32
+    Disparity ratio        : 1.3598x  — Heavily top-heavy (first line dominant)
+    xG gap (adj, per 60)   : +0.5953  (1st line generates 0.5953 more xG/60)
+    1st line adj.xG/60     : 2.2497  (raw: 2.2464,  TOI: 31.2h)
+    2nd line adj.xG/60     : 1.6544  (raw: 1.6566,  TOI: 30.8h)
+    vs league avg ratio    : +0.2445  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #18 of 32  |  Tier: Average
+    Composite score        : -0.163  (league avg = 0.000)
+    Win percentage         : 0.075  (below league avg of 0.090)
+    Goal disparity/game    : -0.006  (net conceder on average)
+    xG disparity/game      : -0.007  (conceding more quality than generating)
+    Shot quality           : +0.0050  (creating higher-danger chances)
+    Conversion             : +0.0050  (better finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.015/game (negative finishing / luck)
+    Penalty discipline     : More disciplined than opponents (-0.031/game advantage)
+    Home/away consistency  : Strongly home-dependent (+38.0 goal split)
+
+  [ KEY INSIGHT ]
+    Saudi Arabia's offence is heavily carried by the first line, which
+    generates 1.36x the xG/60 of the second line after matchup
+    adjustment. This top-heaviness makes them vulnerable if the first
+    line is shut down.
+    Despite a high line disparity (1.36x), Saudi Arabia ranks poorly
+    overall (#18, Average), suggesting the first line's edge isn't
+    translating to results — possibly due to defensive or goaltending
+    issues.
+
+────────────────────────────────────────────────────────────────────────
+  # 4  UAE
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #4 of 32
+    Disparity ratio        : 1.3544x  — Heavily top-heavy (first line dominant)
+    xG gap (adj, per 60)   : +0.5230  (1st line generates 0.5230 more xG/60)
+    1st line adj.xG/60     : 1.9990  (raw: 1.9959,  TOI: 31.3h)
+    2nd line adj.xG/60     : 1.4760  (raw: 1.4776,  TOI: 30.9h)
+    vs league avg ratio    : +0.2391  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #26 of 32  |  Tier: Below Average
+    Composite score        : -0.729  (league avg = 0.000)
+    Win percentage         : 0.072  (below league avg of 0.090)
+    Goal disparity/game    : -0.030  (net conceder on average)
+    xG disparity/game      : -0.019  (conceding more quality than generating)
+    Shot quality           : +0.0050  (creating higher-danger chances)
+    Conversion             : -0.0030  (worse finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.006/game (negative finishing / luck)
+    Penalty discipline     : More disciplined than opponents (-0.038/game advantage)
+    Home/away consistency  : Strongly home-dependent (+26.0 goal split)
+
+  [ KEY INSIGHT ]
+    Uae's offence is heavily carried by the first line, which generates
+    1.35x the xG/60 of the second line after matchup adjustment. This
+    top-heaviness makes them vulnerable if the first line is shut down.
+    Despite a high line disparity (1.35x), Uae ranks poorly overall
+    (#26, Below Average), suggesting the first line's edge isn't
+    translating to results — possibly due to defensive or goaltending
+    issues.
+
+────────────────────────────────────────────────────────────────────────
+  # 5  FRANCE
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #5 of 32
+    Disparity ratio        : 1.3455x  — Heavily top-heavy (first line dominant)
+    xG gap (adj, per 60)   : +0.6573  (1st line generates 0.6573 more xG/60)
+    1st line adj.xG/60     : 2.5597  (raw: 2.5562,  TOI: 30.7h)
+    2nd line adj.xG/60     : 1.9025  (raw: 1.9044,  TOI: 30.3h)
+    vs league avg ratio    : +0.2302  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #14 of 32  |  Tier: Average
+    Composite score        : +0.089  (league avg = 0.000)
+    Win percentage         : 0.083  (below league avg of 0.090)
+    Goal disparity/game    : -0.014  (net conceder on average)
+    xG disparity/game      : +0.020  (generating more than conceding)
+    Shot quality           : +0.0040  (creating higher-danger chances)
+    Conversion             : -0.0230  (worse finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.015/game (negative finishing / luck)
+    Penalty discipline     : More disciplined than opponents (-0.090/game advantage)
+    Home/away consistency  : Strongly home-dependent (+32.0 goal split)
+
+  [ KEY INSIGHT ]
+    France's offence is heavily carried by the first line, which
+    generates 1.35x the xG/60 of the second line after matchup
+    adjustment. This top-heaviness makes them vulnerable if the first
+    line is shut down.
+
+────────────────────────────────────────────────────────────────────────
+  # 6  ICELAND
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #6 of 32
+    Disparity ratio        : 1.3183x  — Heavily top-heavy (first line dominant)
+    xG gap (adj, per 60)   : +0.6247  (1st line generates 0.6247 more xG/60)
+    1st line adj.xG/60     : 2.5872  (raw: 2.5831,  TOI: 29.8h)
+    2nd line adj.xG/60     : 1.9625  (raw: 1.9625,  TOI: 29.2h)
+    vs league avg ratio    : +0.2030  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #13 of 32  |  Tier: Average
+    Composite score        : +0.136  (league avg = 0.000)
+    Win percentage         : 0.095  (above league avg of 0.090)
+    Goal disparity/game    : +0.018  (net scorer on average)
+    xG disparity/game      : -0.011  (conceding more quality than generating)
+    Shot quality           : +0.0030  (creating higher-danger chances)
+    Conversion             : +0.0240  (better finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : Less disciplined than opponents (+0.044/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+29.0 goal split)
+
+  [ KEY INSIGHT ]
+    Iceland's offence is heavily carried by the first line, which
+    generates 1.32x the xG/60 of the second line after matchup
+    adjustment. This top-heaviness makes them vulnerable if the first
+    line is shut down.
+    Discipline is a concern: they take +0.044 more penalties/game than
+    opponents, consistently gifting power play opportunities.
+
+────────────────────────────────────────────────────────────────────────
+  # 7  SINGAPORE
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #7 of 32
+    Disparity ratio        : 1.2562x  — Moderately top-heavy
+    xG gap (adj, per 60)   : +0.5378  (1st line generates 0.5378 more xG/60)
+    1st line adj.xG/60     : 2.6369  (raw: 2.6333,  TOI: 30.5h)
+    2nd line adj.xG/60     : 2.0991  (raw: 2.0996,  TOI: 30.2h)
+    vs league avg ratio    : +0.1409  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #24 of 32  |  Tier: Below Average
+    Composite score        : -0.597  (league avg = 0.000)
+    Win percentage         : 0.093  (above league avg of 0.090)
+    Goal disparity/game    : -0.009  (net conceder on average)
+    xG disparity/game      : -0.027  (conceding more quality than generating)
+    Shot quality           : -0.0050  (conceding higher-danger chances)
+    Conversion             : +0.0060  (better finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : Less disciplined than opponents (+0.035/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+18.0 goal split)
+
+  [ KEY INSIGHT ]
+    Singapore has a clear but manageable first-line advantage (1.26x),
+    suggesting depth that can contribute but still relies on the top
+    unit.
+    Despite a high line disparity (1.26x), Singapore ranks poorly
+    overall (#24, Below Average), suggesting the first line's edge isn't
+    translating to results — possibly due to defensive or goaltending
+    issues.
+    Discipline is a concern: they take +0.035 more penalties/game than
+    opponents, consistently gifting power play opportunities.
+
+────────────────────────────────────────────────────────────────────────
+  # 8  NEW ZEALAND
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #8 of 32
+    Disparity ratio        : 1.2346x  — Moderately top-heavy
+    xG gap (adj, per 60)   : +0.4638  (1st line generates 0.4638 more xG/60)
+    1st line adj.xG/60     : 2.4411  (raw: 2.4383,  TOI: 29.5h)
+    2nd line adj.xG/60     : 1.9773  (raw: 1.9790,  TOI: 29.2h)
+    vs league avg ratio    : +0.1193  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #17 of 32  |  Tier: Average
+    Composite score        : -0.143  (league avg = 0.000)
+    Win percentage         : 0.087  (below league avg of 0.090)
+    Goal disparity/game    : -0.004  (net conceder on average)
+    xG disparity/game      : +0.002  (generating more than conceding)
+    Shot quality           : -0.0100  (conceding higher-danger chances)
+    Conversion             : -0.0140  (worse finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.014/game (negative finishing / luck)
+    Penalty discipline     : Roughly even discipline vs opponents
+    Home/away consistency  : Strongly home-dependent (+41.0 goal split)
+
+  [ KEY INSIGHT ]
+    New Zealand has a clear but manageable first-line advantage (1.23x),
+    suggesting depth that can contribute but still relies on the top
+    unit.
+
+────────────────────────────────────────────────────────────────────────
+  # 9  PERU
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #9 of 32
+    Disparity ratio        : 1.2068x  — Moderately top-heavy
+    xG gap (adj, per 60)   : +0.4101  (1st line generates 0.4101 more xG/60)
+    1st line adj.xG/60     : 2.3936  (raw: 2.3879,  TOI: 31.6h)
+    2nd line adj.xG/60     : 1.9835  (raw: 1.9867,  TOI: 31.3h)
+    vs league avg ratio    : +0.0915  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #4 of 32  |  Tier: Elite
+    Composite score        : +1.071  (league avg = 0.000)
+    Win percentage         : 0.095  (above league avg of 0.090)
+    Goal disparity/game    : +0.048  (net scorer on average)
+    xG disparity/game      : +0.018  (generating more than conceding)
+    Shot quality           : -0.0020  (conceding higher-danger chances)
+    Conversion             : +0.0220  (better finishing than opponents)
+    Finishing vs xG        : Overperforming xG by +0.007/game (positive finishing / luck)
+    Penalty discipline     : Roughly even discipline vs opponents
+    Home/away consistency  : Unusually stronger away than home (-8.0 goal split)
+
+  [ KEY INSIGHT ]
+    Peru has a clear but manageable first-line advantage (1.21x),
+    suggesting depth that can contribute but still relies on the top
+    unit.
+
+────────────────────────────────────────────────────────────────────────
+  #10  PANAMA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #10 of 32
+    Disparity ratio        : 1.2001x  — Moderately top-heavy
+    xG gap (adj, per 60)   : +0.4243  (1st line generates 0.4243 more xG/60)
+    1st line adj.xG/60     : 2.5452  (raw: 2.5439,  TOI: 30.8h)
+    2nd line adj.xG/60     : 2.1208  (raw: 2.1207,  TOI: 30.3h)
+    vs league avg ratio    : +0.0848  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #8 of 32  |  Tier: Above Average
+    Composite score        : +0.612  (league avg = 0.000)
+    Win percentage         : 0.100  (above league avg of 0.090)
+    Goal disparity/game    : +0.026  (net scorer on average)
+    xG disparity/game      : +0.010  (generating more than conceding)
+    Shot quality           : +0.0040  (creating higher-danger chances)
+    Conversion             : +0.0160  (better finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : More disciplined than opponents (-0.035/game advantage)
+    Home/away consistency  : Strongly home-dependent (+54.0 goal split)
+
+  [ KEY INSIGHT ]
+    Panama has a clear but manageable first-line advantage (1.20x),
+    suggesting depth that can contribute but still relies on the top
+    unit.
+
+────────────────────────────────────────────────────────────────────────
+  #11  RWANDA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #11 of 32
+    Disparity ratio        : 1.1925x  — Moderately top-heavy
+    xG gap (adj, per 60)   : +0.3771  (1st line generates 0.3771 more xG/60)
+    1st line adj.xG/60     : 2.3358  (raw: 2.3350,  TOI: 29.4h)
+    2nd line adj.xG/60     : 1.9587  (raw: 1.9586,  TOI: 29.0h)
+    vs league avg ratio    : +0.0772  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #31 of 32  |  Tier: Poor
+    Composite score        : -1.053  (league avg = 0.000)
+    Win percentage         : 0.076  (below league avg of 0.090)
+    Goal disparity/game    : -0.039  (net conceder on average)
+    xG disparity/game      : -0.020  (conceding more quality than generating)
+    Shot quality           : -0.0140  (conceding higher-danger chances)
+    Conversion             : -0.0280  (worse finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.013/game (negative finishing / luck)
+    Penalty discipline     : Less disciplined than opponents (+0.112/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+33.0 goal split)
+
+  [ KEY INSIGHT ]
+    Rwanda has a clear but manageable first-line advantage (1.19x),
+    suggesting depth that can contribute but still relies on the top
+    unit.
+    Discipline is a concern: they take +0.112 more penalties/game than
+    opponents, consistently gifting power play opportunities.
+
+────────────────────────────────────────────────────────────────────────
+  #12  UK
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #12 of 32
+    Disparity ratio        : 1.1709x  — Moderately top-heavy
+    xG gap (adj, per 60)   : +0.3984  (1st line generates 0.3984 more xG/60)
+    1st line adj.xG/60     : 2.7298  (raw: 2.7277,  TOI: 31.8h)
+    2nd line adj.xG/60     : 2.3313  (raw: 2.3315,  TOI: 30.9h)
+    vs league avg ratio    : +0.0556  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #7 of 32  |  Tier: Above Average
+    Composite score        : +0.744  (league avg = 0.000)
+    Win percentage         : 0.095  (above league avg of 0.090)
+    Goal disparity/game    : +0.020  (net scorer on average)
+    xG disparity/game      : +0.022  (generating more than conceding)
+    Shot quality           : +0.0080  (creating higher-danger chances)
+    Conversion             : +0.0070  (better finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.020/game (negative finishing / luck)
+    Penalty discipline     : More disciplined than opponents (-0.056/game advantage)
+    Home/away consistency  : Strongly home-dependent (+49.0 goal split)
+
+  [ KEY INSIGHT ]
+    Uk has a clear but manageable first-line advantage (1.17x),
+    suggesting depth that can contribute but still relies on the top
+    unit.
+
+────────────────────────────────────────────────────────────────────────
+  #13  INDIA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #13 of 32
+    Disparity ratio        : 1.1699x  — Moderately top-heavy
+    xG gap (adj, per 60)   : +0.3537  (1st line generates 0.3537 more xG/60)
+    1st line adj.xG/60     : 2.4352  (raw: 2.4312,  TOI: 30.9h)
+    2nd line adj.xG/60     : 2.0815  (raw: 2.0828,  TOI: 30.6h)
+    vs league avg ratio    : +0.0546  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #11 of 32  |  Tier: Above Average
+    Composite score        : +0.257  (league avg = 0.000)
+    Win percentage         : 0.095  (above league avg of 0.090)
+    Goal disparity/game    : +0.017  (net scorer on average)
+    xG disparity/game      : +0.001  (generating more than conceding)
+    Shot quality           : -0.0070  (conceding higher-danger chances)
+    Conversion             : +0.0060  (better finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.011/game (negative finishing / luck)
+    Penalty discipline     : More disciplined than opponents (-0.050/game advantage)
+    Home/away consistency  : Strongly home-dependent (+40.0 goal split)
+
+  [ KEY INSIGHT ]
+    India has a clear but manageable first-line advantage (1.17x),
+    suggesting depth that can contribute but still relies on the top
+    unit.
+
+────────────────────────────────────────────────────────────────────────
+  #14  SERBIA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #14 of 32
+    Disparity ratio        : 1.1240x  — Slight first-line edge
+    xG gap (adj, per 60)   : +0.3119  (1st line generates 0.3119 more xG/60)
+    1st line adj.xG/60     : 2.8281  (raw: 2.8221,  TOI: 29.8h)
+    2nd line adj.xG/60     : 2.5162  (raw: 2.5193,  TOI: 28.9h)
+    vs league avg ratio    : +0.0087  (above average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #12 of 32  |  Tier: Average
+    Composite score        : +0.233  (league avg = 0.000)
+    Win percentage         : 0.107  (above league avg of 0.090)
+    Goal disparity/game    : +0.003  (net scorer on average)
+    xG disparity/game      : +0.008  (generating more than conceding)
+    Shot quality           : +0.0070  (creating higher-danger chances)
+    Conversion             : +0.0040  (better finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : More disciplined than opponents (-0.023/game advantage)
+    Home/away consistency  : Strongly home-dependent (+41.0 goal split)
+
+  [ KEY INSIGHT ]
+    Serbia has a clear but manageable first-line advantage (1.12x),
+    suggesting depth that can contribute but still relies on the top
+    unit.
+
+────────────────────────────────────────────────────────────────────────
+  #15  SOUTH KOREA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #15 of 32
+    Disparity ratio        : 1.1101x  — Slight first-line edge
+    xG gap (adj, per 60)   : +0.2702  (1st line generates 0.2702 more xG/60)
+    1st line adj.xG/60     : 2.7248  (raw: 2.7206,  TOI: 29.5h)
+    2nd line adj.xG/60     : 2.4547  (raw: 2.4560,  TOI: 28.6h)
+    vs league avg ratio    : -0.0052  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #20 of 32  |  Tier: Average
+    Composite score        : -0.171  (league avg = 0.000)
+    Win percentage         : 0.104  (above league avg of 0.090)
+    Goal disparity/game    : -0.009  (net conceder on average)
+    xG disparity/game      : +0.005  (generating more than conceding)
+    Shot quality           : -0.0120  (conceding higher-danger chances)
+    Conversion             : -0.0250  (worse finishing than opponents)
+    Finishing vs xG        : Overperforming xG by +0.018/game (positive finishing / luck)
+    Penalty discipline     : Less disciplined than opponents (+0.069/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+56.0 goal split)
+
+  [ KEY INSIGHT ]
+    South Korea has a clear but manageable first-line advantage (1.11x),
+    suggesting depth that can contribute but still relies on the top
+    unit.
+    They are outscoring their xG (+0.018/game) despite poor underlying
+    metrics — a potential regression risk going forward.
+    Discipline is a concern: they take +0.069 more penalties/game than
+    opponents, consistently gifting power play opportunities.
+
+────────────────────────────────────────────────────────────────────────
+  #16  NETHERLANDS
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #16 of 32
+    Disparity ratio        : 1.1049x  — Slight first-line edge
+    xG gap (adj, per 60)   : +0.2027  (1st line generates 0.2027 more xG/60)
+    1st line adj.xG/60     : 2.1343  (raw: 2.1322,  TOI: 31.3h)
+    2nd line adj.xG/60     : 1.9316  (raw: 1.9328,  TOI: 30.9h)
+    vs league avg ratio    : -0.0104  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #3 of 32  |  Tier: Elite
+    Composite score        : +1.236  (league avg = 0.000)
+    Win percentage         : 0.091  (above league avg of 0.090)
+    Goal disparity/game    : +0.043  (net scorer on average)
+    xG disparity/game      : +0.025  (generating more than conceding)
+    Shot quality           : +0.0140  (creating higher-danger chances)
+    Conversion             : +0.0280  (better finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : More disciplined than opponents (-0.067/game advantage)
+    Home/away consistency  : Strongly home-dependent (+53.0 goal split)
+
+  [ KEY INSIGHT ]
+    Netherlands has a clear but manageable first-line advantage (1.10x),
+    suggesting depth that can contribute but still relies on the top
+    unit.
+
+────────────────────────────────────────────────────────────────────────
+  #17  MEXICO
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #17 of 32
+    Disparity ratio        : 1.0655x  — Slight first-line edge
+    xG gap (adj, per 60)   : +0.1583  (1st line generates 0.1583 more xG/60)
+    1st line adj.xG/60     : 2.5754  (raw: 2.5711,  TOI: 30.2h)
+    2nd line adj.xG/60     : 2.4171  (raw: 2.4187,  TOI: 30.0h)
+    vs league avg ratio    : -0.0498  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #9 of 32  |  Tier: Above Average
+    Composite score        : +0.306  (league avg = 0.000)
+    Win percentage         : 0.085  (below league avg of 0.090)
+    Goal disparity/game    : -0.011  (net conceder on average)
+    xG disparity/game      : +0.026  (generating more than conceding)
+    Shot quality           : +0.0070  (creating higher-danger chances)
+    Conversion             : -0.0190  (worse finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.017/game (negative finishing / luck)
+    Penalty discipline     : Less disciplined than opponents (+0.034/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+13.0 goal split)
+
+  [ KEY INSIGHT ]
+    Mexico shows balanced offensive line deployment — both lines
+    generate comparable adjusted xG/60 (2.58 vs 2.42), indicating good
+    depth.
+    Discipline is a concern: they take +0.034 more penalties/game than
+    opponents, consistently gifting power play opportunities.
+
+────────────────────────────────────────────────────────────────────────
+  #18  CHINA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #18 of 32
+    Disparity ratio        : 1.0506x  — Slight first-line edge
+    xG gap (adj, per 60)   : +0.1209  (1st line generates 0.1209 more xG/60)
+    1st line adj.xG/60     : 2.5116  (raw: 2.5057,  TOI: 31.7h)
+    2nd line adj.xG/60     : 2.3907  (raw: 2.3929,  TOI: 31.0h)
+    vs league avg ratio    : -0.0647  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #6 of 32  |  Tier: Elite
+    Composite score        : +0.958  (league avg = 0.000)
+    Win percentage         : 0.092  (above league avg of 0.090)
+    Goal disparity/game    : +0.029  (net scorer on average)
+    xG disparity/game      : +0.022  (generating more than conceding)
+    Shot quality           : +0.0180  (creating higher-danger chances)
+    Conversion             : +0.0230  (better finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.011/game (negative finishing / luck)
+    Penalty discipline     : More disciplined than opponents (-0.022/game advantage)
+    Home/away consistency  : Strongly home-dependent (+14.0 goal split)
+
+  [ KEY INSIGHT ]
+    China shows balanced offensive line deployment — both lines generate
+    comparable adjusted xG/60 (2.51 vs 2.39), indicating good depth.
+
+────────────────────────────────────────────────────────────────────────
+  #19  MONGOLIA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #19 of 32
+    Disparity ratio        : 1.0485x  — Balanced lines
+    xG gap (adj, per 60)   : +0.0762  (1st line generates 0.0762 more xG/60)
+    1st line adj.xG/60     : 1.6477  (raw: 1.6456,  TOI: 30.8h)
+    2nd line adj.xG/60     : 1.5715  (raw: 1.5729,  TOI: 29.7h)
+    vs league avg ratio    : -0.0668  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #32 of 32  |  Tier: Poor
+    Composite score        : -1.642  (league avg = 0.000)
+    Win percentage         : 0.071  (below league avg of 0.090)
+    Goal disparity/game    : -0.040  (net conceder on average)
+    xG disparity/game      : -0.050  (conceding more quality than generating)
+    Shot quality           : -0.0230  (conceding higher-danger chances)
+    Conversion             : -0.0170  (worse finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : Roughly even discipline vs opponents
+    Home/away consistency  : Strongly home-dependent (+37.0 goal split)
+
+  [ KEY INSIGHT ]
+    Mongolia shows balanced offensive line deployment — both lines
+    generate comparable adjusted xG/60 (1.65 vs 1.57), indicating good
+    depth.
+
+────────────────────────────────────────────────────────────────────────
+  #20  PAKISTAN
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #20 of 32
+    Disparity ratio        : 1.0405x  — Balanced lines
+    xG gap (adj, per 60)   : +0.1166  (1st line generates 0.1166 more xG/60)
+    1st line adj.xG/60     : 2.9933  (raw: 2.9916,  TOI: 29.0h)
+    2nd line adj.xG/60     : 2.8768  (raw: 2.8747,  TOI: 28.8h)
+    vs league avg ratio    : -0.0748  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #5 of 32  |  Tier: Elite
+    Composite score        : +0.990  (league avg = 0.000)
+    Win percentage         : 0.111  (above league avg of 0.090)
+    Goal disparity/game    : +0.032  (net scorer on average)
+    xG disparity/game      : +0.032  (generating more than conceding)
+    Shot quality           : -0.0020  (conceding higher-danger chances)
+    Conversion             : +0.0000  (better finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.014/game (negative finishing / luck)
+    Penalty discipline     : Less disciplined than opponents (+0.059/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+59.0 goal split)
+
+  [ KEY INSIGHT ]
+    Pakistan shows balanced offensive line deployment — both lines
+    generate comparable adjusted xG/60 (2.99 vs 2.88), indicating good
+    depth.
+    Pakistan's balanced lines (1.04x ratio) combined with strong overall
+    performance (#5, Elite) suggests genuine team-wide depth and quality
+    across the lineup.
+    Discipline is a concern: they take +0.059 more penalties/game than
+    opponents, consistently gifting power play opportunities.
+
+────────────────────────────────────────────────────────────────────────
+  #21  CANADA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #21 of 32
+    Disparity ratio        : 1.0152x  — Balanced lines
+    xG gap (adj, per 60)   : +0.0356  (1st line generates 0.0356 more xG/60)
+    1st line adj.xG/60     : 2.3798  (raw: 2.3785,  TOI: 30.9h)
+    2nd line adj.xG/60     : 2.3442  (raw: 2.3456,  TOI: 29.9h)
+    vs league avg ratio    : -0.1001  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #23 of 32  |  Tier: Below Average
+    Composite score        : -0.375  (league avg = 0.000)
+    Win percentage         : 0.085  (below league avg of 0.090)
+    Goal disparity/game    : -0.027  (net conceder on average)
+    xG disparity/game      : +0.005  (generating more than conceding)
+    Shot quality           : -0.0020  (conceding higher-danger chances)
+    Conversion             : -0.0260  (worse finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.012/game (negative finishing / luck)
+    Penalty discipline     : More disciplined than opponents (-0.025/game advantage)
+    Home/away consistency  : Strongly home-dependent (+59.0 goal split)
+
+  [ KEY INSIGHT ]
+    Canada shows balanced offensive line deployment — both lines
+    generate comparable adjusted xG/60 (2.38 vs 2.34), indicating good
+    depth.
+
+────────────────────────────────────────────────────────────────────────
+  #22  PHILIPPINES
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #22 of 32
+    Disparity ratio        : 1.0009x  — Balanced lines
+    xG gap (adj, per 60)   : +0.0016  (1st line generates 0.0016 more xG/60)
+    1st line adj.xG/60     : 1.8507  (raw: 1.8463,  TOI: 32.9h)
+    2nd line adj.xG/60     : 1.8491  (raw: 1.8514,  TOI: 32.0h)
+    vs league avg ratio    : -0.1144  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #19 of 32  |  Tier: Average
+    Composite score        : -0.164  (league avg = 0.000)
+    Win percentage         : 0.075  (below league avg of 0.090)
+    Goal disparity/game    : +0.008  (net scorer on average)
+    xG disparity/game      : -0.014  (conceding more quality than generating)
+    Shot quality           : -0.0080  (conceding higher-danger chances)
+    Conversion             : +0.0080  (better finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.010/game (negative finishing / luck)
+    Penalty discipline     : More disciplined than opponents (-0.038/game advantage)
+    Home/away consistency  : Strongly home-dependent (+40.0 goal split)
+
+  [ KEY INSIGHT ]
+    Philippines shows balanced offensive line deployment — both lines
+    generate comparable adjusted xG/60 (1.85 vs 1.85), indicating good
+    depth.
+
+────────────────────────────────────────────────────────────────────────
+  #23  KAZAKHSTAN
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #23 of 32
+    Disparity ratio        : 1.0003x  — Balanced lines
+    xG gap (adj, per 60)   : +0.0005  (1st line generates 0.0005 more xG/60)
+    1st line adj.xG/60     : 1.6730  (raw: 1.6720,  TOI: 31.5h)
+    2nd line adj.xG/60     : 1.6725  (raw: 1.6724,  TOI: 31.0h)
+    vs league avg ratio    : -0.1150  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #29 of 32  |  Tier: Poor
+    Composite score        : -0.899  (league avg = 0.000)
+    Win percentage         : 0.076  (below league avg of 0.090)
+    Goal disparity/game    : -0.034  (net conceder on average)
+    xG disparity/game      : -0.013  (conceding more quality than generating)
+    Shot quality           : -0.0130  (conceding higher-danger chances)
+    Conversion             : -0.0300  (worse finishing than opponents)
+    Finishing vs xG        : Underperforming xG by -0.010/game (negative finishing / luck)
+    Penalty discipline     : More disciplined than opponents (-0.050/game advantage)
+    Home/away consistency  : Strongly home-dependent (+31.0 goal split)
+
+  [ KEY INSIGHT ]
+    Kazakhstan shows balanced offensive line deployment — both lines
+    generate comparable adjusted xG/60 (1.67 vs 1.67), indicating good
+    depth.
+
+────────────────────────────────────────────────────────────────────────
+  #24  MOROCCO
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #24 of 32
+    Disparity ratio        : 0.9966x  — Balanced lines
+    xG gap (adj, per 60)   : -0.0080  (1st line generates 0.0080 fewer xG/60)
+    1st line adj.xG/60     : 2.3198  (raw: 2.3178,  TOI: 31.5h)
+    2nd line adj.xG/60     : 2.3279  (raw: 2.3275,  TOI: 30.6h)
+    vs league avg ratio    : -0.1187  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #16 of 32  |  Tier: Average
+    Composite score        : -0.078  (league avg = 0.000)
+    Win percentage         : 0.080  (below league avg of 0.090)
+    Goal disparity/game    : -0.013  (net conceder on average)
+    xG disparity/game      : +0.004  (generating more than conceding)
+    Shot quality           : +0.0070  (creating higher-danger chances)
+    Conversion             : -0.0030  (worse finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : More disciplined than opponents (-0.046/game advantage)
+    Home/away consistency  : Strongly home-dependent (+64.0 goal split)
+
+  [ KEY INSIGHT ]
+    Morocco shows balanced offensive line deployment — both lines
+    generate comparable adjusted xG/60 (2.32 vs 2.33), indicating good
+    depth.
+
+────────────────────────────────────────────────────────────────────────
+  #25  OMAN
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #25 of 32
+    Disparity ratio        : 0.9904x  — Balanced lines
+    xG gap (adj, per 60)   : -0.0242  (1st line generates 0.0242 fewer xG/60)
+    1st line adj.xG/60     : 2.4880  (raw: 2.4850,  TOI: 28.9h)
+    2nd line adj.xG/60     : 2.5121  (raw: 2.5135,  TOI: 28.7h)
+    vs league avg ratio    : -0.1249  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #28 of 32  |  Tier: Poor
+    Composite score        : -0.810  (league avg = 0.000)
+    Win percentage         : 0.094  (above league avg of 0.090)
+    Goal disparity/game    : -0.026  (net conceder on average)
+    xG disparity/game      : -0.021  (conceding more quality than generating)
+    Shot quality           : -0.0100  (conceding higher-danger chances)
+    Conversion             : -0.0130  (worse finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : Less disciplined than opponents (+0.152/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+24.0 goal split)
+
+  [ KEY INSIGHT ]
+    Oman shows balanced offensive line deployment — both lines generate
+    comparable adjusted xG/60 (2.49 vs 2.51), indicating good depth.
+    Discipline is a concern: they take +0.152 more penalties/game than
+    opponents, consistently gifting power play opportunities.
+
+────────────────────────────────────────────────────────────────────────
+  #26  BRAZIL
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #26 of 32
+    Disparity ratio        : 0.9798x  — Balanced lines
+    xG gap (adj, per 60)   : -0.0559  (1st line generates 0.0559 fewer xG/60)
+    1st line adj.xG/60     : 2.7159  (raw: 2.7121,  TOI: 29.6h)
+    2nd line adj.xG/60     : 2.7718  (raw: 2.7742,  TOI: 29.3h)
+    vs league avg ratio    : -0.1355  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #1 of 32  |  Tier: Elite
+    Composite score        : +1.588  (league avg = 0.000)
+    Win percentage         : 0.110  (above league avg of 0.090)
+    Goal disparity/game    : +0.054  (net scorer on average)
+    xG disparity/game      : +0.031  (generating more than conceding)
+    Shot quality           : +0.0270  (creating higher-danger chances)
+    Conversion             : +0.0430  (better finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : Less disciplined than opponents (+0.021/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+45.0 goal split)
+
+  [ KEY INSIGHT ]
+    Brazil shows balanced offensive line deployment — both lines
+    generate comparable adjusted xG/60 (2.72 vs 2.77), indicating good
+    depth.
+    Brazil's balanced lines (0.98x ratio) combined with strong overall
+    performance (#1, Elite) suggests genuine team-wide depth and quality
+    across the lineup.
+    Discipline is a concern: they take +0.021 more penalties/game than
+    opponents, consistently gifting power play opportunities.
+
+────────────────────────────────────────────────────────────────────────
+  #27  THAILAND
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #27 of 32
+    Disparity ratio        : 0.9642x  — Balanced lines
+    xG gap (adj, per 60)   : -0.1049  (1st line generates 0.1049 fewer xG/60)
+    1st line adj.xG/60     : 2.8245  (raw: 2.8201,  TOI: 30.0h)
+    2nd line adj.xG/60     : 2.9294  (raw: 2.9327,  TOI: 29.3h)
+    vs league avg ratio    : -0.1511  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #2 of 32  |  Tier: Elite
+    Composite score        : +1.314  (league avg = 0.000)
+    Win percentage         : 0.111  (above league avg of 0.090)
+    Goal disparity/game    : +0.028  (net scorer on average)
+    xG disparity/game      : +0.045  (generating more than conceding)
+    Shot quality           : +0.0210  (creating higher-danger chances)
+    Conversion             : +0.0090  (better finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : Less disciplined than opponents (+0.011/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+36.0 goal split)
+
+  [ KEY INSIGHT ]
+    Thailand shows balanced offensive line deployment — both lines
+    generate comparable adjusted xG/60 (2.82 vs 2.93), indicating good
+    depth.
+    Thailand's balanced lines (0.96x ratio) combined with strong overall
+    performance (#2, Elite) suggests genuine team-wide depth and quality
+    across the lineup.
+
+────────────────────────────────────────────────────────────────────────
+  #28  INDONESIA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #28 of 32
+    Disparity ratio        : 0.9638x  — Balanced lines
+    xG gap (adj, per 60)   : -0.0680  (1st line generates 0.0680 fewer xG/60)
+    1st line adj.xG/60     : 1.8107  (raw: 1.8088,  TOI: 31.4h)
+    2nd line adj.xG/60     : 1.8787  (raw: 1.8808,  TOI: 30.5h)
+    vs league avg ratio    : -0.1515  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #21 of 32  |  Tier: Average
+    Composite score        : -0.221  (league avg = 0.000)
+    Win percentage         : 0.088  (below league avg of 0.090)
+    Goal disparity/game    : +0.007  (net scorer on average)
+    xG disparity/game      : -0.014  (conceding more quality than generating)
+    Shot quality           : -0.0140  (conceding higher-danger chances)
+    Conversion             : +0.0020  (better finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : More disciplined than opponents (-0.084/game advantage)
+    Home/away consistency  : Unusually stronger away than home (-7.0 goal split)
+
+  [ KEY INSIGHT ]
+    Indonesia shows balanced offensive line deployment — both lines
+    generate comparable adjusted xG/60 (1.81 vs 1.88), indicating good
+    depth.
+
+────────────────────────────────────────────────────────────────────────
+  #29  GERMANY
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #29 of 32
+    Disparity ratio        : 0.9600x  — Balanced lines
+    xG gap (adj, per 60)   : -0.0908  (1st line generates 0.0908 fewer xG/60)
+    1st line adj.xG/60     : 2.1803  (raw: 2.1785,  TOI: 30.9h)
+    2nd line adj.xG/60     : 2.2711  (raw: 2.2718,  TOI: 30.2h)
+    vs league avg ratio    : -0.1553  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #22 of 32  |  Tier: Below Average
+    Composite score        : -0.360  (league avg = 0.000)
+    Win percentage         : 0.094  (above league avg of 0.090)
+    Goal disparity/game    : -0.013  (net conceder on average)
+    xG disparity/game      : -0.009  (conceding more quality than generating)
+    Shot quality           : -0.0030  (conceding higher-danger chances)
+    Conversion             : -0.0070  (worse finishing than opponents)
+    Finishing vs xG        : Overperforming xG by +0.009/game (positive finishing / luck)
+    Penalty discipline     : More disciplined than opponents (-0.027/game advantage)
+    Home/away consistency  : Strongly home-dependent (+17.0 goal split)
+
+  [ KEY INSIGHT ]
+    Germany shows balanced offensive line deployment — both lines
+    generate comparable adjusted xG/60 (2.18 vs 2.27), indicating good
+    depth.
+    They are outscoring their xG (+0.009/game) despite poor underlying
+    metrics — a potential regression risk going forward.
+
+────────────────────────────────────────────────────────────────────────
+  #30  VIETNAM
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #30 of 32
+    Disparity ratio        : 0.9409x  — Second line outperforms first (inverted depth)
+    xG gap (adj, per 60)   : -0.1266  (1st line generates 0.1266 fewer xG/60)
+    1st line adj.xG/60     : 2.0155  (raw: 2.0126,  TOI: 30.4h)
+    2nd line adj.xG/60     : 2.1421  (raw: 2.1441,  TOI: 30.2h)
+    vs league avg ratio    : -0.1744  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #30 of 32  |  Tier: Poor
+    Composite score        : -0.908  (league avg = 0.000)
+    Win percentage         : 0.081  (below league avg of 0.090)
+    Goal disparity/game    : -0.021  (net conceder on average)
+    xG disparity/game      : -0.028  (conceding more quality than generating)
+    Shot quality           : -0.0160  (conceding higher-danger chances)
+    Conversion             : -0.0100  (worse finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : Less disciplined than opponents (+0.016/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+26.0 goal split)
+
+  [ KEY INSIGHT ]
+    Unusually, Vietnam's second line outperforms the first (0.94x
+    ratio). This inversion could reflect mismatched line assignments,
+    injury impact on the first line, or the second line benefiting from
+    favourable matchups.
+
+────────────────────────────────────────────────────────────────────────
+  #31  ETHIOPIA
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #31 of 32
+    Disparity ratio        : 0.9027x  — Second line outperforms first (inverted depth)
+    xG gap (adj, per 60)   : -0.2399  (1st line generates 0.2399 fewer xG/60)
+    1st line adj.xG/60     : 2.2268  (raw: 2.2252,  TOI: 30.4h)
+    2nd line adj.xG/60     : 2.4667  (raw: 2.4641,  TOI: 29.3h)
+    vs league avg ratio    : -0.2126  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #15 of 32  |  Tier: Average
+    Composite score        : -0.016  (league avg = 0.000)
+    Win percentage         : 0.103  (above league avg of 0.090)
+    Goal disparity/game    : +0.012  (net scorer on average)
+    xG disparity/game      : -0.014  (conceding more quality than generating)
+    Shot quality           : +0.0020  (creating higher-danger chances)
+    Conversion             : +0.0210  (better finishing than opponents)
+    Finishing vs xG        : Overperforming xG by +0.017/game (positive finishing / luck)
+    Penalty discipline     : Less disciplined than opponents (+0.027/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+14.0 goal split)
+
+  [ KEY INSIGHT ]
+    Unusually, Ethiopia's second line outperforms the first (0.90x
+    ratio). This inversion could reflect mismatched line assignments,
+    injury impact on the first line, or the second line benefiting from
+    favourable matchups.
+    They are outscoring their xG (+0.017/game) despite poor underlying
+    metrics — a potential regression risk going forward.
+    Discipline is a concern: they take +0.027 more penalties/game than
+    opponents, consistently gifting power play opportunities.
+
+────────────────────────────────────────────────────────────────────────
+  #32  SWITZERLAND
+────────────────────────────────────────────────────────────────────────
+
+  [ OFFENSIVE LINE DEPTH ]
+    Line disparity rank    : #32 of 32
+    Disparity ratio        : 0.8903x  — Second line outperforms first (inverted depth)
+    xG gap (adj, per 60)   : -0.2111  (1st line generates 0.2111 fewer xG/60)
+    1st line adj.xG/60     : 1.7126  (raw: 1.7112,  TOI: 30.5h)
+    2nd line adj.xG/60     : 1.9237  (raw: 1.9256,  TOI: 30.1h)
+    vs league avg ratio    : -0.2250  (below average top-heaviness)
+
+  [ OVERALL TEAM PERFORMANCE ]
+    Overall disparity rank : #25 of 32  |  Tier: Below Average
+    Composite score        : -0.683  (league avg = 0.000)
+    Win percentage         : 0.077  (below league avg of 0.090)
+    Goal disparity/game    : -0.018  (net conceder on average)
+    xG disparity/game      : -0.020  (conceding more quality than generating)
+    Shot quality           : -0.0100  (conceding higher-danger chances)
+    Conversion             : -0.0080  (worse finishing than opponents)
+    Finishing vs xG        : Performing in line with xG expectations
+    Penalty discipline     : Less disciplined than opponents (+0.035/game disadvantage)
+    Home/away consistency  : Strongly home-dependent (+66.0 goal split)
+
+  [ KEY INSIGHT ]
+    Unusually, Switzerland's second line outperforms the first (0.89x
+    ratio). This inversion could reflect mismatched line assignments,
+    injury impact on the first line, or the second line benefiting from
+    favourable matchups.
+    Discipline is a concern: they take +0.035 more penalties/game than
+    opponents, consistently gifting power play opportunities.
+
+========================================================================
+  END OF REPORT
+========================================================================
