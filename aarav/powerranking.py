@@ -155,3 +155,41 @@ print("Log Loss:", round(log_loss(y, probs),4))
 print("\nModel Coefficients:")
 for name, coef in zip(X.columns, model.coef_[0]):
     print(f"{name}: {round(coef,4)}")
+
+from sklearn.model_selection import GridSearchCV
+
+# Feature matrix
+X = team_game[["dxg", "dgsax", "dsupp", "dfinish", "home"]]
+y = team_game["win"]
+
+# Define logistic model
+logreg = LogisticRegression(max_iter=2000)
+
+# Hyperparameter grid
+param_grid = {
+    "C": [0.01, 0.1, 0.5, 1, 2, 5, 10]
+}
+
+# Grid search
+grid = GridSearchCV(
+    logreg,
+    param_grid,
+    scoring="neg_log_loss",
+    cv=5
+)
+
+grid.fit(X, y)
+
+best_model = grid.best_estimator_
+
+# Predictions
+probs = best_model.predict_proba(X)[:,1]
+preds = best_model.predict(X)
+
+print("\nBest C:", grid.best_params_)
+print("Accuracy:", round(accuracy_score(y, preds),4))
+print("Log Loss:", round(log_loss(y, probs),4))
+
+print("\nCoefficients:")
+for name, coef in zip(X.columns, best_model.coef_[0]):
+    print(f"{name}: {round(coef,4)}")
