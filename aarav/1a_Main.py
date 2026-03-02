@@ -42,8 +42,8 @@ from sklearn.model_selection import cross_val_score, GridSearchCV
 from sklearn.metrics import log_loss
 
 # ── 0. Load ───────────────────────────────────────────────────────────────────
-df       = pd.read_excel("whl_2025.xlsx")
-matchups = pd.read_excel("WHSDSC_Rnd1_matchups.xlsx")
+df       = pd.read_excel("../datasci/whl_2025.xlsx")
+matchups = pd.read_excel("../datasci/WHSDSC_Rnd1_matchups.xlsx")
 
 # ── 1. Aggregate to game level ────────────────────────────────────────────────
 game_level = df.groupby("game_id").agg(
